@@ -40,7 +40,7 @@ Here are a few highlights from my portfolio:
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](www.linkedin.com/in/pabisha-uloganathan-581920245)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pabisha-uloganathan-581920245/))
 - 📧 uloganathanpabisha@gmail.com
 - 🌐 [My Portfolio Website](https://pabisha2001.github.io/portfolio/)
 
